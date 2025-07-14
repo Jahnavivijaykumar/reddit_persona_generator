@@ -19,7 +19,7 @@ This project generates user personas based on Reddit user activity using Reddit 
 
 ## 🛠️ How to Run
 
-1. Clone the Repo
+1.Clone the Repo
 ```bash
 git clone https://github.com/your-username/reddit-persona-generator.git
 cd reddit-persona-generator
@@ -28,7 +28,7 @@ cd reddit-persona-generator
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
-3. Configure .env
+3.Configure .env
 Create a .env file with:
 REDDIT_CLIENT_ID=your_id
 REDDIT_CLIENT_SECRET=your_secret
